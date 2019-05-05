@@ -1,6 +1,6 @@
 # Qknn_algo
 
-The Qknn algorithm is an algorithm presented in [MkV_control_problem](https://arxiv.org/abs/1803.00445), and based on k-nearest neighbors algorithm and quantization theory.
+The Qknn algorithm is an algorithm presented in [MkV_control_problem](https://arxiv.org/abs/1803.00445), and based on local regression (k-nearest neighbors) and quantization theory, to solve control problems.
 
 In this repertory, some implementations of Qknn are available to solve some of the stochastic control problems proposed in [MkV_control_problem](https://arxiv.org/abs/1803.00445). The grids for the quantization of the normal distribution are available in http://www.quantize.maths-fi.com/
 
